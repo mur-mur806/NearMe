@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/2f797f69-0166-4e7a-9fbb-bceb5ae34d9b" /># Ex04 Places Around Me
+# Ex04 Places Around Me
 ## Date: 20.09.2025
 
 ## AIM
@@ -191,6 +191,7 @@ thakkadi, tharvesh , kattai, Mohamed sabbani, lebbai, maayatti etc.
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/68388573-81a2-4e68-b482-98c92fb33a46" />
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/33aaab8f-1ad8-4031-9a3d-acfe39752978" />
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/0552b034-f634-41b0-be48-7b7dd97c7068" />
+<img width="1479" height="787" alt="map" src="https://github.com/user-attachments/assets/bf169ad6-bf08-4536-98eb-8ab584f90f34" />
 
 
 
