@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/2f797f69-0166-4e7a-9fbb-bceb5ae34d9b" /># Ex04 Places Around Me
 ## Date: 20.09.2025
 
 ## AIM
@@ -185,12 +185,17 @@ thakkadi, tharvesh , kattai, Mohamed sabbani, lebbai, maayatti etc.
 ```
 
 ## OUTPUT
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
-![alt text](map.png)
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/f50ba86d-4fbd-4c6c-bbd3-97dbf7ed40e7" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/aeb6743c-a051-4dc8-a809-ebd2e332b4a6" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/68388573-81a2-4e68-b482-98c92fb33a46" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/33aaab8f-1ad8-4031-9a3d-acfe39752978" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/0552b034-f634-41b0-be48-7b7dd97c7068" />
+
+
+
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
