@@ -39,7 +39,7 @@ map.html
         <font color=""blue><b>MurugaPerumal P (25016797)</b></font>
         </h3>
         <center>
-        <img src="C:\Users\acer\NearMe\muruga\mapapp\static\Screenshot 2025-09-20 142112.png" usemap="#image-map">
+        <img src="Screenshot 2025-09-20 142112.png" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="melapalayamVillage" title="melapalayamVillage" href="melapalayam.html" coords="718,573,42" shape="circle">
