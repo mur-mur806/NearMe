@@ -185,12 +185,14 @@ thakkadi, tharvesh , kattai, Mohamed sabbani, lebbai, maayatti etc.
 ```
 
 ## OUTPUT
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
-![alt text](map.png)
+
+![alt text](<Screenshot (38).png>)
+![alt text](<Screenshot (41).png>)
+![alt text](<Screenshot (42).png>)
+![alt text](<Screenshot (43).png>)
+![alt text](<Screenshot (40).png>)
+![alt text](<Screenshot (39).png>)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
