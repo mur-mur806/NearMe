@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 20.09.2025
+## Date: 27.09.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -185,13 +185,14 @@ thakkadi, tharvesh , kattai, Mohamed sabbani, lebbai, maayatti etc.
 ```
 
 ## OUTPUT
-
 ![alt text](<Screenshot (38).png>)
 ![alt text](<Screenshot (41).png>)
 ![alt text](<Screenshot (42).png>)
 ![alt text](<Screenshot (43).png>)
 ![alt text](<Screenshot (40).png>)
 ![alt text](<Screenshot (39).png>)
+
+
 
 
 ## RESULT
